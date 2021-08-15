@@ -12,8 +12,8 @@
                     posts
                 </NuxtLink>
             </span>
-            <span href="/recommendation" class="block mt-4 md:inline-block md:mt-0 mr-4 underline">
-                <NuxtLink to="/recommendation">
+            <span href="/recommendations" class="block mt-4 md:inline-block md:mt-0 mr-4 underline">
+                <NuxtLink to="/recommendations">
                     recomendações
                 </NuxtLink>
             </span>
