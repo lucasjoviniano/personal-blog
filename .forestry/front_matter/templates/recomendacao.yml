@@ -18,5 +18,10 @@ fields:
     display_utc: false
     export_format: YYYY-MM-DD
   default: now
+- name: link
+  type: text
+  config:
+    required: false
+  label: Link
 pages:
 - content/recommendations/cem-anos-de-solidao-gabriel-garcia-marquez.md
