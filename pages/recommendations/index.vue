@@ -2,14 +2,13 @@
   <Default>
     <div>
       <ul class='p-16'>
-        <li v-for="rec in recommendations" :key="rec.slug">
-          <nuxt-link :to="{name: 'rec-slug', params: { slug: rec.slug }}">
+        <li v-for="rec of recommendations" :key="rec.slug">
+          <a :href='rec.link' target='_blank' rel='noopener'>
             <div>
               <h2 class='text-xl'>{{ rec.title }}</h2>
               <p>{{ formatDate(rec.date) }}</p>
             </div>
-
-          </nuxt-link>
+          </a>
         </li>
       </ul>
     </div>
