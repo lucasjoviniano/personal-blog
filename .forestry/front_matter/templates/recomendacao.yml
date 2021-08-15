@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: Title
+pages:
+- content/recommendations/cem-anos-de-solidao-gabriel-garcia-marquez.md
