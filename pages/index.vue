@@ -4,9 +4,9 @@
       <h1 class="mb-4 text-6xl font-black">Olá, eu sou o Lucas!</h1>
       <p class="text-lg">
         Estudante de Ciência da Computação na Universidade Federal de Viçosa e
-        fundador do Open Source Lab UFV. Além disso, eu também escrevo as vezes.
+        fundador do <a href='https://oslu.org/' target='_blank' rel='noopener norreferer' class='underline'>Open Source Lab UFV</a>. Além disso, eu também escrevo as vezes.
       </p>
-      
+
       <div class="grid gap-4 md:grid-cols-2">
         <section class="mt-6">
           <h1 class="mb-4 text-2xl font-black lg:text-4xl">
@@ -35,7 +35,7 @@
             </li>
           </ul>
         </section>
-        
+
         <section class="mt-6">
           <h1 class="mb-4 text-2xl font-black lg:text-4xl">Em Tecnologia</h1>
           <ul class="text-lg list-disc list-inside">

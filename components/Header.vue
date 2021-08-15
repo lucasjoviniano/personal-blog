@@ -12,9 +12,11 @@
                     posts
                 </NuxtLink>
             </span>
-            <a href="#" class="block mt-4 md:inline-block md:mt-0 mr-4 underline">
-                recomendações
-            </a>
+            <span href="/recommendation" class="block mt-4 md:inline-block md:mt-0 mr-4 underline">
+                <NuxtLink to="/recommendation">
+                    recomendações
+                </NuxtLink>
+            </span>
             <a href="#" class="block mt-4 md:inline-block md:mt-0 mr-4 underline">
                 ouvindo
             </a>
