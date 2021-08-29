@@ -2,7 +2,7 @@
   <Default>
     <div>
       <ul class='p-16'>
-        <li v-for="rec of recommendations" :key="rec.slug">
+        <li v-for="rec of recommendations" :key="rec.slug" class="mt-8">
           <a :href='rec.link' target='_blank' rel='noopener'>
             <div>
               <h2 class='text-xl'>{{ rec.title }}</h2>
