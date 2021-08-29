@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1630200645",layout:"default",error:a,serverRendered:true,routePath:"\u002Fblog\u002Fanalise-de-dados-e-rupaul",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"7197ce02"}}}}(null));
