@@ -18,7 +18,7 @@
 <script>
 export default {
   async asyncData({ $content, params}) {
-    const recommendations = await $content('recommendations').sortBy('createdAt', 'asc').fetch()
+    const recommendations = await $content('recommendations').sortBy('createdAt', 'desc').fetch()
 
     return { recommendations }
   },
