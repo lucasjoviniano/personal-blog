@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog", {data:[{articles:[{slug:"analise-de-dados-e-rupaul",description:"Análise de dados sobre as temporadas regulares do reality show RuPaul's Drag Race",title:"Análise de Dados e RuPaul's Drag Race",date:"2020-06-19T00:00:00.000Z"}]}],fetch:{},mutations:void 0});
