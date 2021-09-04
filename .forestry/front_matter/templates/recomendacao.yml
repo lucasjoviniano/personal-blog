@@ -24,5 +24,6 @@ fields:
     required: false
   label: Link
 pages:
+- content/articles/como-eu-faco-minhas-anotacoes-usando-o-obsidian-e-o-logseq.md
 - content/recommendations/cem-anos-de-solidao-gabriel-garcia-marquez.md
 - content/recommendations/how-i-experience-web-today.md
