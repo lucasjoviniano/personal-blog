@@ -1,4 +1,6 @@
-# personal-blog
+# Personal Blog
+
+Old blog that was abandoned because I wanted a simpler version.
 
 ## Build Setup
 
